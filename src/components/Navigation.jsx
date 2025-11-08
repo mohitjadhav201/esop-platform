@@ -77,7 +77,7 @@ const Navigation = () => {
             <div className="flex items-center space-x-2">
               <Building2 className="w-8 h-8 text-primary-600" />
               <div>
-                <h1 className="font-bold text-xl text-gray-900">ESOP Platform</h1>
+                <h1 className="font-bold text-xl text-gray-900">KAP ESOP Platform</h1>
                 <p className="text-xs text-gray-500">Compliance Suite</p>
               </div>
             </div>
