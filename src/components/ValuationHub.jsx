@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, {useState} from 'react';
 import { useESOP } from '../context/ESOPContext';
 import { Calculator, TrendingUp, FileText, DollarSign } from 'lucide-react';
 

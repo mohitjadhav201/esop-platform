@@ -1,5 +1,6 @@
 import React from 'react';
-import { TrendingUp, Users, Award, CheckCircle} from 'lucide-react';
+import { useESOP } from '../context/ESOPContext';
+import { TrendingUp, Users, Award, CheckCircle,AlertCircle} from 'lucide-react';
 
 const AdminDashboard = () => {
   const { esopData, activities } = useESOP();
